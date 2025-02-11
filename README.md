@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andry00sha
-- 👀g
+- 👀
 - 🌱 Junior IT Analyst
 
 <!---
